@@ -1,0 +1,9 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "mashiro_other-25.moc",
+  "textures": ["texture_00.png", "texture_01.png"],
+  "physics": "mashiro_other-25.physics.json",
+  "motions": {
+    "idle": [{ "file": "idle01.mtn", "fade_in": 0, "fade_out": 1000 }]
+  }
+}
